@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-12-17T06:47:14.061Z",
+  "url": "https://www.tickingminds.com/contact-us/",
+  "commands": [
+    {
+      "fieldId": "your-message",
+      "selector": "#your-message",
+      "value": "1.search for csr\n\n2.filter grants\n\n3.based on give small details\n\n4.ngo type🡪summary give\n\n5.automaticatlly file form but login faced issues\n\n6.pdf alos available \n\n7.\n\n\n\n",
+      "type": "text",
+      "fieldType": "textarea",
+      "action": "fill",
+      "label": "Your Message",
+      "confidence": 0.9
+    }
+  ],
+  "aiResult": {
+    "mappedFields": [
+      {
+        "fieldId": "your-name",
+        "label": "Your Name (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No name information found in dataset",
+        "selector": "#your-name"
+      },
+      {
+        "fieldId": "your-email",
+        "label": "Your Email (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No email information found in dataset",
+        "selector": "#your-email"
+      },
+      {
+        "fieldId": "your-phone",
+        "label": "Your Phone Number (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No phone number found in dataset",
+        "selector": "#your-phone"
+      },
+      {
+        "fieldId": "services[]",
+        "label": "Services",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No services information found in dataset",
+        "selector": "[name='services[]']"
+      },
+      {
+        "fieldId": "your-message",
+        "label": "Your Message",
+        "mappedValue": "1.search for csr\n\n2.filter grants\n\n3.based on give small details\n\n4.ngo type🡪summary give\n\n5.automaticatlly file form but login faced issues\n\n6.pdf alos available \n\n7.\n\n\n\n",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Mapped from content of document 1.docx in dataset",
+        "selector": "#your-message"
+      }
+    ],
+    "missingFields": [
+      {
+        "label": "Your Name (Required)",
+        "reason": "No name information found in dataset"
+      },
+      {
+        "label": "Your Email (Required)",
+        "reason": "No email information found in dataset"
+      },
+      {
+        "label": "Your Phone Number (Required)",
+        "reason": "No phone number found in dataset"
+      },
+      {
+        "label": "Services",
+        "reason": "No services information found in dataset"
+      }
+    ]
+  }
+}

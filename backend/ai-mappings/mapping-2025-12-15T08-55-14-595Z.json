@@ -1,0 +1,353 @@
+{
+  "timestamp": "2025-12-15T08:55:14.595Z",
+  "url": "https://bit-form.com/form-template/job-application-multi-step-form/",
+  "commands": [
+    {
+      "fieldId": "text-b43-7",
+      "selector": "#text-b43-7",
+      "value": "Sivasree Govindaraj",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Full Name\n*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "email-b43-8",
+      "selector": "#email-b43-8",
+      "value": "sivasreegovindaraj@gmail.com",
+      "type": "text",
+      "fieldType": "email",
+      "action": "fill",
+      "label": "Email\n*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "phone-number-b43-16",
+      "selector": "#phone-number-b43-16",
+      "value": "9600878205",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Phone-Number-B43-16",
+      "confidence": 1
+    },
+    {
+      "fieldId": "enter_phone_number",
+      "selector": "#enter_phone_number",
+      "value": "9600878205",
+      "type": "text",
+      "fieldType": "tel",
+      "action": "fill",
+      "label": "Enter Phone Number",
+      "confidence": 1
+    },
+    {
+      "fieldId": "text-b43-6[1]",
+      "selector": "text-b43-6[1]",
+      "value": "Software Engineer",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Job Title",
+      "confidence": 1
+    },
+    {
+      "fieldId": "text-b43-9[1]",
+      "selector": "text-b43-9[1]",
+      "value": "Ticking Minds Technology Solutions Pvt. Ltd., Chennai",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Company Name",
+      "confidence": 1
+    },
+    {
+      "fieldId": "number-b43-10[1]",
+      "selector": "number-b43-10[1]",
+      "value": "0",
+      "type": "text",
+      "fieldType": "number",
+      "action": "fill",
+      "label": "Years of Service",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "textarea-b43-11[1]",
+      "selector": "textarea-b43-11[1]",
+      "value": "Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution.",
+      "type": "text",
+      "fieldType": "textarea",
+      "action": "fill",
+      "label": "Responsibilities",
+      "confidence": 1
+    },
+    {
+      "fieldId": "repeater-b43-5-repeat-index",
+      "selector": "repeater-b43-5-repeat-index",
+      "value": "Software Engineer",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Job Title",
+      "confidence": 1
+    },
+    {
+      "fieldId": "textarea-b43-3",
+      "selector": "textarea-b43-3",
+      "value": "Enthusiastic and motivated individual seeking an entry-level position to kick-start my career. Eager to apply my skills, dedication, and learnings to contribute effectively to a dynamic work environment.",
+      "type": "text",
+      "fieldType": "textarea",
+      "action": "fill",
+      "label": "Why We Should Hire You?",
+      "confidence": 0.95
+    },
+    {
+      "fieldId": "advanced-file-up-b43-13",
+      "selector": "advanced-file-up-b43-13",
+      "value": "Sivasree Govindaraj   sivasreegovindaraj@gmail.com  9600878205  Software Engineer   Chennai  Summary  Software Engineer skilled in automation testing using Selenium, TestNG, and Cucumber (BDD). Skilled in functional and API testing, developing and executing automation scripts, validating workflows, and tracking defects using Asana and Jira. Automated 16+ test cases executed in Chrome (headed and headless modes). Work Experience Software Engineer | Ticking Minds Technology Solutions Pvt. Ltd., Chennai | March 2025 – Present MAF Application (Automation Scripts & BDD) July 2025-Sep 2025 Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). VistaFlow –HRMS Application (User Service Module) April 2025-July 2025 Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution. OATS Tools(Orthogonal Array Test Generator) – API Testing April 2025 Developed an Orthogonal Array Test Generator for API testing, dynamically generating test combinations using Factors, Levels, and OA types (L4, L8, L9, etc.). Executed API calls and validated responses against expected outputs. Integrated Allure Reports to display detailed results, improving test coverage and efficiency. Skills Automation & Programming: Core Java, Selenium WebDriver, TestNG, Cucumber (BDD). API Testing: Postman, Rest Assured (Java-based API automation). Database: MySQL. Version Control & Code Quality: GitLab, SonarQube. Manual Testing & Validation: Functional testing, field validation, regression testing, test case design, defect reporting. Reporting & Test Management: Allure Reports, Jira, Asana. Build & Dependency Management: Maven. Education Bachelor of Technology (B.Tech) in Information Technology Sri Sairam Institute of Technology, Chennai CGPA: 9.0| Graduated: 2024 Certificates SQL-Skillrack Java",
+      "type": "document",
+      "fieldType": "file",
+      "action": "document",
+      "label": "Drag & Drop your files or Browse",
+      "confidence": 1
+    },
+    {
+      "fieldId": "filepond",
+      "selector": "filepond",
+      "value": "Sivasree Govindaraj   sivasreegovindaraj@gmail.com  9600878205  Software Engineer   Chennai  Summary  Software Engineer skilled in automation testing using Selenium, TestNG, and Cucumber (BDD). Skilled in functional and API testing, developing and executing automation scripts, validating workflows, and tracking defects using Asana and Jira. Automated 16+ test cases executed in Chrome (headed and headless modes). Work Experience Software Engineer | Ticking Minds Technology Solutions Pvt. Ltd., Chennai | March 2025 – Present MAF Application (Automation Scripts & BDD) July 2025-Sep 2025 Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). VistaFlow –HRMS Application (User Service Module) April 2025-July 2025 Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution. OATS Tools(Orthogonal Array Test Generator) – API Testing April 2025 Developed an Orthogonal Array Test Generator for API testing, dynamically generating test combinations using Factors, Levels, and OA types (L4, L8, L9, etc.). Executed API calls and validated responses against expected outputs. Integrated Allure Reports to display detailed results, improving test coverage and efficiency. Skills Automation & Programming: Core Java, Selenium WebDriver, TestNG, Cucumber (BDD). API Testing: Postman, Rest Assured (Java-based API automation). Database: MySQL. Version Control & Code Quality: GitLab, SonarQube. Manual Testing & Validation: Functional testing, field validation, regression testing, test case design, defect reporting. Reporting & Test Management: Allure Reports, Jira, Asana. Build & Dependency Management: Maven. Education Bachelor of Technology (B.Tech) in Information Technology Sri Sairam Institute of Technology, Chennai CGPA: 9.0| Graduated: 2024 Certificates SQL-Skillrack Java",
+      "type": "document",
+      "fieldType": "file",
+      "action": "document",
+      "label": "Upload Your CV",
+      "confidence": 1
+    },
+    {
+      "fieldId": "email-1-2",
+      "selector": "email-1-2",
+      "value": "sivasreegovindaraj@gmail.com",
+      "type": "text",
+      "fieldType": "email",
+      "action": "fill",
+      "label": "Write Your Email Here",
+      "confidence": 1
+    }
+  ],
+  "aiResult": {
+    "mappedFields": [
+      {
+        "fieldId": "csrf",
+        "label": "Csrf",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No CSRF token or related data found in dataset",
+        "selector": "#csrf"
+      },
+      {
+        "fieldId": "t_identity",
+        "label": "T Identity",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No identity or similar unique identifier found in dataset",
+        "selector": "#t_identity"
+      },
+      {
+        "fieldId": "bitforms_id",
+        "label": "Bitforms Id",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No Bitforms Id or similar field found in dataset",
+        "selector": "#bitforms_id"
+      },
+      {
+        "fieldId": "text-b43-7",
+        "label": "Full Name\n*",
+        "mappedValue": "Sivasree Govindaraj",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Full name clearly found in multiple resume documents",
+        "selector": "#text-b43-7"
+      },
+      {
+        "fieldId": "email-b43-8",
+        "label": "Email\n*",
+        "mappedValue": "sivasreegovindaraj@gmail.com",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Email found consistently in dataset documents",
+        "selector": "#email-b43-8"
+      },
+      {
+        "fieldId": "phone-number-b43-16",
+        "label": "Phone-Number-B43-16",
+        "mappedValue": "9600878205",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Phone number found in multiple documents",
+        "selector": "#phone-number-b43-16"
+      },
+      {
+        "fieldId": "enter_phone_number",
+        "label": "Enter Phone Number",
+        "mappedValue": "9600878205",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Same phone number mapped for phone input field",
+        "selector": "#enter_phone_number"
+      },
+      {
+        "fieldId": "search_for_countries",
+        "label": "Search for countries",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No country or location data explicitly found for country search",
+        "selector": "#search_for_countries"
+      },
+      {
+        "fieldId": "select-b43-14",
+        "label": "Select-B43-14",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No matching data found for this ambiguous field",
+        "selector": "#select-b43-14"
+      },
+      {
+        "fieldId": "search_options_",
+        "label": "Search options..",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No relevant search options data found in dataset",
+        "selector": "#search_options_"
+      },
+      {
+        "fieldId": "text-b43-6[1]",
+        "label": "Job Title",
+        "mappedValue": "Software Engineer",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Job title extracted from multiple resume documents indicating current role.",
+        "selector": "text-b43-6[1]"
+      },
+      {
+        "fieldId": "text-b43-9[1]",
+        "label": "Company Name",
+        "mappedValue": "Ticking Minds Technology Solutions Pvt. Ltd., Chennai",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Company name clearly mentioned in work experience section of resumes.",
+        "selector": "text-b43-9[1]"
+      },
+      {
+        "fieldId": "number-b43-10[1]",
+        "label": "Years of Service",
+        "mappedValue": "0",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Employment start date March 2025 to present (Dec 2025), approximately less than 1 year, rounded to 0.",
+        "selector": "number-b43-10[1]"
+      },
+      {
+        "fieldId": "textarea-b43-11[1]",
+        "label": "Responsibilities",
+        "mappedValue": "Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution.",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Responsibilities detailed in work experience sections of resumes.",
+        "selector": "textarea-b43-11[1]"
+      },
+      {
+        "fieldId": "repeater-b43-5-repeat-index",
+        "label": "Job Title",
+        "mappedValue": "Software Engineer",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Repeated job title matches primary job title in dataset.",
+        "selector": "repeater-b43-5-repeat-index"
+      },
+      {
+        "fieldId": "textarea-b43-3",
+        "label": "Why We Should Hire You?",
+        "mappedValue": "Enthusiastic and motivated individual seeking an entry-level position to kick-start my career. Eager to apply my skills, dedication, and learnings to contribute effectively to a dynamic work environment.",
+        "valueType": "text",
+        "confidence": 0.95,
+        "reasoning": "Objective statement extracted from resume expressing motivation and suitability.",
+        "selector": "textarea-b43-3"
+      },
+      {
+        "fieldId": "advanced-file-up-b43-13",
+        "label": "Drag & Drop your files or Browse",
+        "mappedValue": "Sivasree Govindaraj   sivasreegovindaraj@gmail.com  9600878205  Software Engineer   Chennai  Summary  Software Engineer skilled in automation testing using Selenium, TestNG, and Cucumber (BDD). Skilled in functional and API testing, developing and executing automation scripts, validating workflows, and tracking defects using Asana and Jira. Automated 16+ test cases executed in Chrome (headed and headless modes). Work Experience Software Engineer | Ticking Minds Technology Solutions Pvt. Ltd., Chennai | March 2025 – Present MAF Application (Automation Scripts & BDD) July 2025-Sep 2025 Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). VistaFlow –HRMS Application (User Service Module) April 2025-July 2025 Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution. OATS Tools(Orthogonal Array Test Generator) – API Testing April 2025 Developed an Orthogonal Array Test Generator for API testing, dynamically generating test combinations using Factors, Levels, and OA types (L4, L8, L9, etc.). Executed API calls and validated responses against expected outputs. Integrated Allure Reports to display detailed results, improving test coverage and efficiency. Skills Automation & Programming: Core Java, Selenium WebDriver, TestNG, Cucumber (BDD). API Testing: Postman, Rest Assured (Java-based API automation). Database: MySQL. Version Control & Code Quality: GitLab, SonarQube. Manual Testing & Validation: Functional testing, field validation, regression testing, test case design, defect reporting. Reporting & Test Management: Allure Reports, Jira, Asana. Build & Dependency Management: Maven. Education Bachelor of Technology (B.Tech) in Information Technology Sri Sairam Institute of Technology, Chennai CGPA: 9.0| Graduated: 2024 Certificates SQL-Skillrack Java",
+        "valueType": "document",
+        "confidence": 1,
+        "reasoning": "Full content of primary resume document extracted for file upload field.",
+        "selector": "advanced-file-up-b43-13"
+      },
+      {
+        "fieldId": "filepond",
+        "label": "Upload Your CV",
+        "mappedValue": "Sivasree Govindaraj   sivasreegovindaraj@gmail.com  9600878205  Software Engineer   Chennai  Summary  Software Engineer skilled in automation testing using Selenium, TestNG, and Cucumber (BDD). Skilled in functional and API testing, developing and executing automation scripts, validating workflows, and tracking defects using Asana and Jira. Automated 16+ test cases executed in Chrome (headed and headless modes). Work Experience Software Engineer | Ticking Minds Technology Solutions Pvt. Ltd., Chennai | March 2025 – Present MAF Application (Automation Scripts & BDD) July 2025-Sep 2025 Developed and executed automation scripts for reject, recycle, and reversal dates using Selenium, Java, TestNG, and Cucumber (BDD). Wrote feature files for BDD scenarios to implement test workflows. Verified automation outcomes against expected results. Reported and tracked defects using Jira. Automated test cases in MAF applications executed in Chrome (headed and headless modes). VistaFlow –HRMS Application (User Service Module) April 2025-July 2025 Tested user functionalities related to role-based access and authentication for HR and Admin roles and user. Performed manual testing, wrote and executed detailed test cases, and tracked defects. Conducted API testing using Postman for endpoints relevant to assigned modules. Verified role-based access control and authentication workflows. Logged and monitored defects using Asana for timely resolution. OATS Tools(Orthogonal Array Test Generator) – API Testing April 2025 Developed an Orthogonal Array Test Generator for API testing, dynamically generating test combinations using Factors, Levels, and OA types (L4, L8, L9, etc.). Executed API calls and validated responses against expected outputs. Integrated Allure Reports to display detailed results, improving test coverage and efficiency. Skills Automation & Programming: Core Java, Selenium WebDriver, TestNG, Cucumber (BDD). API Testing: Postman, Rest Assured (Java-based API automation). Database: MySQL. Version Control & Code Quality: GitLab, SonarQube. Manual Testing & Validation: Functional testing, field validation, regression testing, test case design, defect reporting. Reporting & Test Management: Allure Reports, Jira, Asana. Build & Dependency Management: Maven. Education Bachelor of Technology (B.Tech) in Information Technology Sri Sairam Institute of Technology, Chennai CGPA: 9.0| Graduated: 2024 Certificates SQL-Skillrack Java",
+        "valueType": "document",
+        "confidence": 1,
+        "reasoning": "Full content of primary resume document extracted for CV upload field.",
+        "selector": "filepond"
+      },
+      {
+        "fieldId": "signature-b43-15",
+        "label": "Signature-B43-15",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No signature data found in dataset.",
+        "selector": "signature-b43-15"
+      },
+      {
+        "fieldId": "email-1-2",
+        "label": "Write Your Email Here",
+        "mappedValue": "sivasreegovindaraj@gmail.com",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Email extracted from multiple resume documents.",
+        "selector": "email-1-2"
+      }
+    ],
+    "missingFields": [
+      {
+        "label": "Csrf",
+        "reason": "CSRF token or related data not present in dataset"
+      },
+      {
+        "label": "T Identity",
+        "reason": "No identity or unique identifier found in dataset"
+      },
+      {
+        "label": "Bitforms Id",
+        "reason": "No Bitforms Id or similar identifier found in dataset"
+      },
+      {
+        "label": "Search for countries",
+        "reason": "No country or location data available in dataset"
+      },
+      {
+        "label": "Select-B43-14",
+        "reason": "No matching data found for this field"
+      },
+      {
+        "label": "Search options..",
+        "reason": "No relevant search options data found in dataset"
+      },
+      {
+        "label": "Signature-B43-15",
+        "reason": "No signature information available in dataset."
+      }
+    ],
+    "chunkedProcessing": true,
+    "totalChunks": 2,
+    "successfulChunks": 2
+  }
+}

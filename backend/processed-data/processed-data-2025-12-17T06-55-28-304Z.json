@@ -1,0 +1,22 @@
+{
+  "errorCount": 0,
+  "files": [
+    {
+      "data": {
+        "content": "1.enter the user name  2.enter the user email  3.enter the message  4.submit",
+        "detectedPatterns": [],
+        "lineCount": 1,
+        "type": "unstructured_text"
+      },
+      "extension": "pdf",
+      "extractedAt": "2025-12-17T06:55:28.304Z",
+      "fileType": "application/pdf",
+      "filename": "1.pdf",
+      "lastModified": "2025-12-16T11:57:07.532Z",
+      "size": 16321
+    }
+  ],
+  "processedAt": "2025-12-17T06:55:28.304Z",
+  "successCount": 1,
+  "totalFiles": 1
+}

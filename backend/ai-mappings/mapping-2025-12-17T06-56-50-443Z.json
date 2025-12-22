@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-12-17T06:56:50.443Z",
+  "url": "https://www.tickingminds.com/contact-us/",
+  "commands": [
+    {
+      "fieldId": "your-message",
+      "selector": "#your-message",
+      "value": "1.enter the user name  2.enter the user email  3.enter the message  4.submit",
+      "type": "text",
+      "fieldType": "textarea",
+      "action": "fill",
+      "label": "Your Message",
+      "confidence": 0.9
+    }
+  ],
+  "aiResult": {
+    "mappedFields": [
+      {
+        "fieldId": "your-name",
+        "label": "Your Name (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No user name found in dataset",
+        "selector": "#your-name"
+      },
+      {
+        "fieldId": "your-email",
+        "label": "Your Email (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No email found in dataset",
+        "selector": "#your-email"
+      },
+      {
+        "fieldId": "your-phone",
+        "label": "Your Phone Number (Required)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No phone number found in dataset",
+        "selector": "#your-phone"
+      },
+      {
+        "fieldId": "services[]",
+        "label": "Services",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No services information found in dataset",
+        "selector": "[name='services[]']"
+      },
+      {
+        "fieldId": "your-message",
+        "label": "Your Message",
+        "mappedValue": "1.enter the user name  2.enter the user email  3.enter the message  4.submit",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Extracted message content from local PDF file",
+        "selector": "#your-message"
+      }
+    ],
+    "missingFields": [
+      {
+        "label": "Your Name (Required)",
+        "reason": "No user name found in dataset"
+      },
+      {
+        "label": "Your Email (Required)",
+        "reason": "No email found in dataset"
+      },
+      {
+        "label": "Your Phone Number (Required)",
+        "reason": "No phone number found in dataset"
+      },
+      {
+        "label": "Services",
+        "reason": "No services information found in dataset"
+      }
+    ]
+  }
+}

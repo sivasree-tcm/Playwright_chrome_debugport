@@ -1,0 +1,444 @@
+{
+  "timestamp": "2025-12-17T05:26:31.701Z",
+  "url": "https://appi.fluxx.io/lois/1245502/edit",
+  "commands": [
+    {
+      "fieldId": "loi[address]",
+      "selector": "loi[address]",
+      "value": "Thanjavur",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Address 1*",
+      "confidence": 0.8
+    },
+    {
+      "fieldId": "loi[city]",
+      "selector": "loi[city]",
+      "value": "Chennai",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "City*",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "loi[org_geo_state_1]",
+      "selector": "loi[org_geo_state_1]",
+      "value": "Tamil Nadu",
+      "type": "text",
+      "fieldType": "select-one",
+      "action": "fill",
+      "label": "State / Province*",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "loi[postal_code]",
+      "selector": "loi[postal_code]",
+      "value": "614613",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Pin Code*",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "loi[org_email]",
+      "selector": "input[name='loi[org_email]']",
+      "value": "sivasreegovindaraj@gmail.com",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Organisation E-mail",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "loi[org_phone]",
+      "selector": "input[name='loi[org_phone]']",
+      "value": "9600878205",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Organisation Phone",
+      "confidence": 0.9
+    },
+    {
+      "fieldId": "loi[thematic_area]",
+      "selector": "select[name='loi[thematic_area]']",
+      "value": "Others",
+      "type": "text",
+      "fieldType": "select-one",
+      "action": "fill",
+      "label": "Choose your areas of work - 1/3*",
+      "confidence": 0.7
+    },
+    {
+      "fieldId": "loi[thematic_area_2]",
+      "selector": "select[name='loi[thematic_area_2]']",
+      "value": "Others",
+      "type": "text",
+      "fieldType": "select-one",
+      "action": "fill",
+      "label": "Choose your areas of work - 2/3",
+      "confidence": 0.7
+    },
+    {
+      "fieldId": "loi[first_name_1]",
+      "selector": "input[name='loi[first_name_1]']",
+      "value": "Sivasree",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "First Name*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "loi[last_name_1]",
+      "selector": "input[name='loi[last_name_1]']",
+      "value": "Govindaraj",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Last Name*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "loi[user_title]",
+      "selector": "input[name='loi[user_title]']",
+      "value": "Software Engineer",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "Designation/Title*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "loi[mobile]",
+      "selector": "input[name='loi[mobile]']",
+      "value": "9600878205",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "**Mobile Number*",
+      "confidence": 1
+    },
+    {
+      "fieldId": "loi[email]",
+      "selector": "input[name='loi[email]']",
+      "value": "sivasreegovindaraj@gmail.com",
+      "type": "text",
+      "fieldType": "text",
+      "action": "fill",
+      "label": "**E-mail*",
+      "confidence": 1
+    }
+  ],
+  "aiResult": {
+    "mappedFields": [
+      {
+        "fieldId": "loi[organization_name]",
+        "label": "Organisation Name (As per your registration document)*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "Organization name not found in dataset",
+        "selector": "loi[organization_name]"
+      },
+      {
+        "fieldId": "loi[tax_id]",
+        "label": "Organisation PAN (as per your PAN card)*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "PAN or tax ID not present in dataset",
+        "selector": "loi[tax_id]"
+      },
+      {
+        "fieldId": "loi[date_of_establishment]",
+        "label": "Date of Establishment (as per PAN card)*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "Date of establishment or registration date not found",
+        "selector": "loi[date_of_establishment]"
+      },
+      {
+        "fieldId": "loi[nature_of_establishment]",
+        "label": "Nature of Establishment*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "Nature of establishment not specified in dataset",
+        "selector": "loi[nature_of_establishment]"
+      },
+      {
+        "fieldId": "loi[specify_org_registered_under_which_act]",
+        "label": "Registered under which Act?*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "Registration act information missing",
+        "selector": "loi[specify_org_registered_under_which_act]"
+      },
+      {
+        "fieldId": "loi[address]",
+        "label": "Address 1*",
+        "mappedValue": "Thanjavur",
+        "valueType": "text",
+        "confidence": 0.8,
+        "reasoning": "Address line 1 inferred from location mentioned in resume",
+        "selector": "loi[address]"
+      },
+      {
+        "fieldId": "loi[street_address2]",
+        "label": "Address 2",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No secondary address line found",
+        "selector": "loi[street_address2]"
+      },
+      {
+        "fieldId": "loi[city]",
+        "label": "City*",
+        "mappedValue": "Chennai",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "City found in multiple documents as Chennai",
+        "selector": "loi[city]"
+      },
+      {
+        "fieldId": "loi[org_geo_state_1]",
+        "label": "State / Province*",
+        "mappedValue": "Tamil Nadu",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "State inferred from city Chennai and educational institute location",
+        "selector": "loi[org_geo_state_1]"
+      },
+      {
+        "fieldId": "loi[postal_code]",
+        "label": "Pin Code*",
+        "mappedValue": "614613",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Pin code found in resume document",
+        "selector": "loi[postal_code]"
+      },
+      {
+        "fieldId": "loi[communication_address]",
+        "label": "Communication Address (if different from Registered Address)",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No separate communication address found in dataset",
+        "selector": "textarea[name='loi[communication_address]']"
+      },
+      {
+        "fieldId": "loi[org_email]",
+        "label": "Organisation E-mail",
+        "mappedValue": "sivasreegovindaraj@gmail.com",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Email found in multiple documents, consistent and valid",
+        "selector": "input[name='loi[org_email]']"
+      },
+      {
+        "fieldId": "loi[org_phone]",
+        "label": "Organisation Phone",
+        "mappedValue": "9600878205",
+        "valueType": "text",
+        "confidence": 0.9,
+        "reasoning": "Phone number found in dataset matching expected format",
+        "selector": "input[name='loi[org_phone]']"
+      },
+      {
+        "fieldId": "loi[org_url]",
+        "label": "Organisation Website",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No organisation website found in dataset",
+        "selector": "input[name='loi[org_url]']"
+      },
+      {
+        "fieldId": "loi[founders_name]",
+        "label": "Founders Name*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No founders name found in dataset",
+        "selector": "input[name='loi[founders_name]']"
+      },
+      {
+        "fieldId": "loi[a12a_validity]",
+        "label": "12A / 10(23C) Validity*",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No 12A / 10(23C) registration or validity info found",
+        "selector": "input[name='loi[a12a_validity]']"
+      },
+      {
+        "fieldId": "loi[a80g_validity]",
+        "label": "80G Validity",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No 80G registration or validity info found",
+        "selector": "input[name='loi[a80g_validity]']"
+      },
+      {
+        "fieldId": "loi[fcra_validity]",
+        "label": "FCRA Validity",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No FCRA registration or validity info found",
+        "selector": "input[name='loi[fcra_validity]']"
+      },
+      {
+        "fieldId": "loi[thematic_area]",
+        "label": "Choose your areas of work - 1/3*",
+        "mappedValue": "Others",
+        "valueType": "text",
+        "confidence": 0.7,
+        "reasoning": "No explicit thematic areas found; 'Others' selected as default",
+        "selector": "select[name='loi[thematic_area]']"
+      },
+      {
+        "fieldId": "loi[thematic_area_2]",
+        "label": "Choose your areas of work - 2/3",
+        "mappedValue": "Others",
+        "valueType": "text",
+        "confidence": 0.7,
+        "reasoning": "No explicit second thematic area found; 'Others' selected as default",
+        "selector": "select[name='loi[thematic_area_2]']"
+      },
+      {
+        "fieldId": "loi[thematic_area_3]",
+        "label": "Choose your areas of work - 3/3",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No explicit thematic area of work found in dataset",
+        "selector": "select[name='loi[thematic_area_3]']"
+      },
+      {
+        "fieldId": "loi[first_name_1]",
+        "label": "First Name*",
+        "mappedValue": "Sivasree",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "First name extracted from multiple resume documents",
+        "selector": "input[name='loi[first_name_1]']"
+      },
+      {
+        "fieldId": "loi[last_name_1]",
+        "label": "Last Name*",
+        "mappedValue": "Govindaraj",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Last name extracted from multiple resume documents",
+        "selector": "input[name='loi[last_name_1]']"
+      },
+      {
+        "fieldId": "loi[user_title]",
+        "label": "Designation/Title*",
+        "mappedValue": "Software Engineer",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Designation clearly stated in resume content",
+        "selector": "input[name='loi[user_title]']"
+      },
+      {
+        "fieldId": "loi[mobile]",
+        "label": "**Mobile Number*",
+        "mappedValue": "9600878205",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Mobile number consistently found in resume documents",
+        "selector": "input[name='loi[mobile]']"
+      },
+      {
+        "fieldId": "loi[email]",
+        "label": "**E-mail*",
+        "mappedValue": "sivasreegovindaraj@gmail.com",
+        "valueType": "text",
+        "confidence": 1,
+        "reasoning": "Email address consistently found in resume documents",
+        "selector": "input[name='loi[email]']"
+      },
+      {
+        "fieldId": "g-recaptcha-response",
+        "label": "G-Recaptcha-Response",
+        "mappedValue": null,
+        "valueType": "text",
+        "confidence": 0,
+        "reasoning": "No captcha response present in dataset",
+        "selector": "textarea[name='g-recaptcha-response']"
+      }
+    ],
+    "missingFields": [
+      {
+        "label": "Organisation Name (As per your registration document)*",
+        "reason": "Organization name not found in dataset"
+      },
+      {
+        "label": "Organisation PAN (as per your PAN card)*",
+        "reason": "PAN or tax ID not present in dataset"
+      },
+      {
+        "label": "Date of Establishment (as per PAN card)*",
+        "reason": "Date of establishment or registration date not found"
+      },
+      {
+        "label": "Nature of Establishment*",
+        "reason": "Nature of establishment not specified in dataset"
+      },
+      {
+        "label": "Registered under which Act?*",
+        "reason": "Registration act information missing"
+      },
+      {
+        "label": "Address 2",
+        "reason": "No secondary address line found"
+      },
+      {
+        "label": "Communication Address (if different from Registered Address)",
+        "reason": "No communication address found in dataset"
+      },
+      {
+        "label": "Organisation Website",
+        "reason": "No organisation website found in dataset"
+      },
+      {
+        "label": "Founders Name*",
+        "reason": "Founders name not present in dataset"
+      },
+      {
+        "label": "12A / 10(23C) Validity*",
+        "reason": "No 12A / 10(23C) registration or validity info found"
+      },
+      {
+        "label": "80G Validity",
+        "reason": "No 80G registration or validity info found"
+      },
+      {
+        "label": "FCRA Validity",
+        "reason": "No FCRA registration or validity info found"
+      },
+      {
+        "label": "Choose your areas of work - 3/3",
+        "reason": "No relevant thematic area information found in dataset"
+      },
+      {
+        "label": "G-Recaptcha-Response",
+        "reason": "Captcha response not available in dataset"
+      }
+    ],
+    "chunkedProcessing": true,
+    "totalChunks": 3,
+    "successfulChunks": 3
+  }
+}

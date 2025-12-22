@@ -1,0 +1,30 @@
+{
+  "url": "https://www.tickingminds.com/contact-us/",
+  "fields": {
+    "your-name": {
+      "label": "Your Name (Required)",
+      "type": "text",
+      "placeholder": "Enter your full name"
+    },
+    "your-email": {
+      "label": "Your Email (Required)",
+      "type": "email",
+      "placeholder": "Enter your email"
+    },
+    "your-phone": {
+      "label": "Your Phone Number (Required)",
+      "type": "tel",
+      "placeholder": "Enter Your Phone Number"
+    },
+    "services[]": {
+      "label": "Services",
+      "type": "checkbox"
+    },
+    "your-message": {
+      "label": "Your Message",
+      "type": "textarea",
+      "placeholder": "Enter Your Message"
+    }
+  },
+  "scannedAt": "2025-12-17T05:55:23.575Z"
+}
